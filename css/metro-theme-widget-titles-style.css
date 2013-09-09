@@ -1,0 +1,23 @@
+.comment-respond h3,
+.entry-comments h3,
+.widget-title {
+	background: transparent url( '../images/lines.png' ) repeat;
+	line-height: 1.2;
+	padding: 0;
+}
+
+.comments-title,
+.widget-headline {
+	background-color: #fff;
+	line-height: 1;
+}
+
+.comments-title {
+	padding: 0 12px;
+	padding: 0 1.2rem;
+}
+
+.widget-headline {
+	padding: 0 8px;
+	padding: 0 0.8rem;
+}
